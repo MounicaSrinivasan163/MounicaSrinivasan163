@@ -29,7 +29,7 @@ Aspiring **Data Scientist** | **Business Intelligence Analyst**
 Python · Pandas · SQL · Streamlit · Power BI · TensorFlow  
 
 **Machine Learning & AI**  
-ML Algorithms · Deep Learning Models · Neural Networks  
+ML Algorithms · Deep Learning Models · Neural Networks  · NLP  · LLM
 
 **Visualization & Analytics**  
 EDA · Data Visualization · Business Intelligence Dashboards  
