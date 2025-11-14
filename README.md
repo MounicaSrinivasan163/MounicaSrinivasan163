@@ -35,118 +35,118 @@ ML Algorithms · Deep Learning Models · Neural Networks
 EDA · Data Visualization · Business Intelligence Dashboards  
 
 ---
-# 🚀 Data Science, ML, NLP & LLM Projects — Grid View
+## 🚀 Data Science, ML, NLP & LLM Projects — Grid View
 
 <table>
 <tr>
 
+<!-- 1 -->
 <td width="25%">
-<b>🥗 Nutrition Paradox</b><br>
 <a href="https://github.com/MounicaSrinivasan163/-Nutrition-Paradox-A-Global-View-on-Obesity-and-Malnutrition">
-<img src="https://raw.githubusercontent.com/MounicaSrinivasan163/-Nutrition-Paradox-A-Global-View-on-Obesity-and-Malnutrition/main/preview.png" width="100%">
+<b>🥗 Nutrition Paradox – Global View</b><br>
+<img src="https://opengraph.githubassets.com/1/MounicaSrinivasan163/-Nutrition-Paradox-A-Global-View-on-Obesity-and-Malnutrition" width="100%">
 </a>
-<p>Global EDA • Health Analytics</p>
 </td>
 
+<!-- 2 -->
 <td width="25%">
-<b>🌌 NASA NEO Dashboard</b><br>
 <a href="https://github.com/MounicaSrinivasan163/NASA-GUVI-Project">
-<img src="https://raw.githubusercontent.com/MounicaSrinivasan163/NASA-GUVI-Project/main/preview.png" width="100%">
+<b>🌌 NASA GUVI NEO Dashboard</b><br>
+<img src="https://opengraph.githubassets.com/1/MounicaSrinivasan163/NASA-GUVI-Project" width="100%">
 </a>
-<p>NASA API • Streamlit • Space Analytics</p>
 </td>
 
+<!-- 3 -->
 <td width="25%">
-<b>🧠 Brain Tumor MRI Classification</b><br>
 <a href="https://github.com/MounicaSrinivasan163/Brain-Tumour-MRI_Image_Classification-Using_Tensorflow">
-<img src="https://raw.githubusercontent.com/MounicaSrinivasan163/Brain-Tumour-MRI_Image_Classification-Using_Tensorflow/main/preview.png" width="100%">
+<b>🧠 Brain Tumor MRI Classifier</b><br>
+<img src="https://opengraph.githubassets.com/1/MounicaSrinivasan163/Brain-Tumour-MRI_Image_Classification-Using_Tensorflow" width="100%">
 </a>
-<p>CNN • Medical Imaging</p>
 </td>
 
+<!-- 4 -->
 <td width="25%">
-<b>🛍️ Shopper Spectrum Analysis</b><br>
 <a href="https://github.com/MounicaSrinivasan163/Shopper-Spectrum-Customer-Segmentation-and-Product-Recommendations-in-E-Commerce">
-<img src="https://raw.githubusercontent.com/MounicaSrinivasan163/Shopper-Spectrum-Customer-Segmentation-and-Product-Recommendations-in-E-Commerce/main/preview.png" width="100%">
+<b>🛍️ Shopper Spectrum – Segmentation</b><br>
+<img src="https://opengraph.githubassets.com/1/MounicaSrinivasan163/Shopper-Spectrum-Customer-Segmentation-and-Product-Recommendations-in-E-Commerce" width="100%">
 </a>
-<p>Customer Segmentation • Recommender</p>
 </td>
 
 </tr>
 <tr>
 
+<!-- 5 -->
 <td width="25%">
-<b>🤖 Fine-Tuning LLMs</b><br>
 <a href="https://github.com/MounicaSrinivasan163/Fine-Tuning-LLMs-OpenAI-SDK-vs-Azure-AI-Foundry-vs-Hugging-Face-LoRA---Streamlit-ChatApp">
-<img src="https://raw.githubusercontent.com/MounicaSrinivasan163/Fine-Tuning-LLMs-OpenAI-SDK-vs-Azure-AI-Foundry-vs-Hugging-Face-LoRA---Streamlit-ChatApp/main/preview.png" width="100%">
+<b>🔧 LLM Fine-Tuning (OpenAI • Azure • HF)</b><br>
+<img src="https://opengraph.githubassets.com/1/MounicaSrinivasan163/Fine-Tuning-LLMs-OpenAI-SDK-vs-Azure-AI-Foundry-vs-Hugging-Face-LoRA---Streamlit-ChatApp" width="100%">
 </a>
-<p>OpenAI • Azure • HF LoRA</p>
 </td>
 
+<!-- 6 -->
 <td width="25%">
-<b>📚 RAG — Naive to Advanced</b><br>
 <a href="https://github.com/MounicaSrinivasan163/RAG-implementation---Naive-RAG-Advanced-RAG">
-<img src="https://raw.githubusercontent.com/MounicaSrinivasan163/RAG-implementation---Naive-RAG-Advanced-RAG/main/preview.png" width="100%">
+<b>📚 RAG Implementation (Naive → Advanced)</b><br>
+<img src="https://opengraph.githubassets.com/1/MounicaSrinivasan163/RAG-implementation---Naive-RAG-Advanced-RAG" width="100%">
 </a>
-<p>RAG • LangChain • Vector DB</p>
 </td>
 
+<!-- 7 -->
 <td width="25%">
-<b>🚀 Agentic RAG + CrewAI</b><br>
 <a href="https://github.com/MounicaSrinivasan163/Agentic-RAG-with-Pinecone-CrewAI">
-<img src="https://raw.githubusercontent.com/MounicaSrinivasan163/Agentic-RAG-with-Pinecone-CrewAI/main/preview.png" width="100%">
+<b>🧩 Agentic RAG + Pinecone + CrewAI</b><br>
+<img src="https://opengraph.githubassets.com/1/MounicaSrinivasan163/Agentic-RAG-with-Pinecone-CrewAI" width="100%">
 </a>
-<p>Agents • Pinecone • CrewAI</p>
 </td>
 
+<!-- 8 -->
 <td width="25%">
-<b>🕵️ Fake News Classifier</b><br>
 <a href="https://github.com/MounicaSrinivasan163/NLP-Fake-News-Classifier---A-comparative-study-between-different-embedding-techniques-and-models">
-<img src="https://raw.githubusercontent.com/MounicaSrinivasan163/NLP-Fake-News-Classifier---A-comparative-study-between-different-embedding-techniques-and-models/main/preview.png" width="100%">
+<b>📰 Fake News Classifier (NLP)</b><br>
+<img src="https://opengraph.githubassets.com/1/MounicaSrinivasan163/NLP-Fake-News-Classifier---A-comparative-study-between-different-embedding-techniques-and-models" width="100%">
 </a>
-<p>NLP • Embeddings • ML Models</p>
 </td>
 
 </tr>
 <tr>
 
+<!-- 9 -->
 <td width="25%">
-<b>🌍 BERT Multi-Label Classifier</b><br>
 <a href="https://github.com/MounicaSrinivasan163/NLP-BERT-Multilabel_Classifier-Worldwide-travel-cities-dataset">
-<img src="https://raw.githubusercontent.com/MounicaSrinivasan163/NLP-BERT-Multilabel_Classifier-Worldwide-travel-cities-dataset/main/preview.png" width="100%">
+<b>🌍 BERT Multi-Label Text Classifier</b><br>
+<img src="https://opengraph.githubassets.com/1/MounicaSrinivasan163/NLP-BERT-Multilabel_Classifier-Worldwide-travel-cities-dataset" width="100%">
 </a>
-<p>BERT • Multi-label NLP</p>
 </td>
 
+<!-- 10 -->
 <td width="25%">
-<b>🚖 Trip Fare Prediction</b><br>
 <a href="https://github.com/MounicaSrinivasan163/Trip_Fare_Prediction_Project">
-<img src="https://raw.githubusercontent.com/MounicaSrinivasan163/Trip_Fare_Prediction_Project/main/preview.png" width="100%">
+<b>🚖 Trip Fare Prediction</b><br>
+<img src="https://opengraph.githubassets.com/1/MounicaSrinivasan163/Trip_Fare_Prediction_Project" width="100%">
 </a>
-<p>Regression • Feature Engineering</p>
 </td>
 
+<!-- 11 -->
 <td width="25%">
-<b>⚕️ MLflow Healthcare MLOps</b><br>
 <a href="https://github.com/MounicaSrinivasan163/MLops_MLflow_implementation-Healthcare_dataset">
-<img src="https://raw.githubusercontent.com/MounicaSrinivasan163/MLops_MLflow_implementation-Healthcare_dataset/main/preview.png" width="100%">
+<b>🏥 MLOps with MLflow (Healthcare)</b><br>
+<img src="https://opengraph.githubassets.com/1/MounicaSrinivasan163/MLops_MLflow_implementation-Healthcare_dataset" width="100%">
 </a>
-<p>MLOps • MLflow • Tracking</p>
 </td>
 
-<td width="25%">
-<b>📦 Coming Soon</b><br>
-<img src="https://dummyimage.com/600x400/cccccc/000000&text=More+Projects+Soon" width="100%">
-<p>New projects under development</p>
+<!-- 12 -->
+<td width="25%" align="center">
+<b>⏳ More Projects Coming Soon</b><br>
+<img src="https://via.placeholder.com/600x300?text=Coming+Soon" width="100%">
 </td>
 
 </tr>
 </table>
+>
 
 
 ---
 
-# 🌐 Microsoft Azure AI & Cloud Projects Portfolio
 ## 🌩️ Microsoft Azure AI & Cloud Projects Portfolio
 
 <table>
