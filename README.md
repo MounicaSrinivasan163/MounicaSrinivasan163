@@ -35,7 +35,7 @@ ML Algorithms · Deep Learning Models · Neural Networks
 EDA · Data Visualization · Business Intelligence Dashboards  
 
 ---
-## 🚀 Data Science, ML, NLP & LLM Projects — Grid View
+## 🚀 Data Science, ML, NLP & LLM Projects — Pinned Projects
 
 <table>
 <tr>
