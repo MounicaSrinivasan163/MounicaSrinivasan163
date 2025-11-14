@@ -2,28 +2,91 @@ name: Update Starred Repos
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # run daily
   workflow_dispatch:
 
 jobs:
   update-stars:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
-      - name: Fetch starred repos and update README
+        with:
+          persist-credentials: true
+
+      - name: Ensure jq is available
         run: |
-          curl -H "Accept: application/vnd.github+json" \
-            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
-            "https://api.github.com/users/MounicaSrinivasan/starred?per_page=100" \
-            | jq -r '.[].full_name' \
-            | while read repo; do
-                echo "- [\${repo}](https://github.com/\${repo})"
-              done > starred_list.md
-          # Insert into README.md between markers
-          awk '/<!--START_STARS-->/{print; system("cat starred_list.md"); next}1' README.md \
-            > README.new.md && mv README.new.md README.md
-      - name: Commit changes
+          if ! command -v jq >/dev/null 2>&1; then
+            sudo apt-get update && sudo apt-get install -y jq
+          fi
+
+      - name: Fetch starred repos and create markdown
+        env:
+          GH_USER: MounicaSrinivasan163
+          GHTOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          PAGE=1
+          PER_PAGE=100
+          OUTPUT="starred_list.md"
+          echo "<!-- Generated list of starred repos — DO NOT EDIT MANUALLY -->" > "$OUTPUT"
+          echo "" >> "$OUTPUT"
+          # loop through pages
+          while :; do
+            JSON=$(curl -s -H "Accept: application/vnd.github+json" \
+                         -H "Authorization: Bearer $GHTOKEN" \
+                         "https://api.github.com/users/$GH_USER/starred?per_page=$PER_PAGE&page=$PAGE")
+            COUNT=$(echo "$JSON" | jq 'length')
+            if [ "$COUNT" -eq 0 ]; then
+              break
+            fi
+            echo "$JSON" | jq -r '.[] | 
+              (if (.name|length)>0 then .owner.login + "/" + .name else .full_name end) as $full |
+              "- [\($full)](\(.html_url))" + (if (.description != null and .description != "") then " — " + (.description|gsub("\n"; " ")) else "" end) + 
+              "  \n  • ★ " + (.stargazers_count|tostring) + (if (.language != null) then " • " + .language else "" end)'
+            # append nicely formatted lines to output
+            echo "$JSON" | jq -r '.[] | 
+              (if (.name|length)>0 then .owner.login + "/" + .name else .full_name end) as $full |
+              "- [\($full)](\(.html_url))" + (if (.description != null and .description != "") then " — " + (.description|gsub("\n"; " ")) else "" end) + 
+              "  \n  • ★ " + (.stargazers_count|tostring) + (if (.language != null) then " • " + .language else "" end)' >> "$OUTPUT"
+            PAGE=$((PAGE+1))
+          done
+          echo "" >> "$OUTPUT"
+          echo "<!-- End generated list -->" >> "$OUTPUT"
+          echo "Generated $OUTPUT with starred repos."
+
+      - name: Insert starred list into README.md between markers
+        run: |
+          README=README.md
+          MARKER_START="<!-- STARRED_REPOS_LIST -->"
+          MARKER_END="<!-- STARRED_REPOS_LIST_END -->"
+          if ! grep -q "$MARKER_START" "$README"; then
+            echo "ERROR: README.md does not contain the start marker: $MARKER_START"
+            echo "Add the following in your README.md where you want the list:"
+            echo "$MARKER_START"
+            echo "$MARKER_END"
+            exit 1
+          fi
+          # Build the replacement block
+          printf "%s\n" "$MARKER_START" >> /tmp/new_block.md
+          cat starred_list.md >> /tmp/new_block.md
+          printf "%s\n" "$MARKER_END" >> /tmp/new_block.md
+          # Use awk to replace the block between markers
+          awk -v start="$MARKER_START" -v end="$MARKER_END" 'BEGIN{p=1}
+            { if ($0 ~ start) { system("cat /tmp/new_block.md"); p=0; in=1; next }
+              if ($0 ~ end) { in=0; p=1; next }
+              if (in==1) next
+              if (p==1) print $0 }' "$README" > README.updated.md
+          mv README.updated.md "$README"
+          echo "Inserted starred list into $README."
+
+      - name: Show README snippet for verification
+        run: |
+          echo "----- README excerpt around markers -----"
+          sed -n -e '/<!-- STARRED_REPOS_LIST -->/,+30p' README.md || true
+
+      - name: Commit & push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "🔄 Auto-update starred repos"
+          branch: main
