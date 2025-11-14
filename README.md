@@ -241,7 +241,7 @@ Looking for **data-driven projects** to collaborate on and grow together 🚀
 ---
 
 ## 📩 Reach Me
-📧 [Email](mailto:your-email@example.com) | 🌐 [GitHub](https://github.com/MounicaSrinivasan) | 🔗 [LinkedIn](your-linkedin-url)  
+📧 [Email](srinivasanmounica@gmail.com) | 🌐 [GitHub]([https://github.com/MounicaSrinivasan](https://github.com/MounicaSrinivasan163)) | 🔗 [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/mounica-srinivasan-6968461b/))  
 
 ---
 
