@@ -41,21 +41,88 @@ A curated set of Machine Learning, NLP, Computer Vision, LLM, RAG, and MLOps pro
 
 ---
 
-## 📁 Project Grid
+<h1 align="center">🚀 Data Science, ML, NLP & LLM Projects — Pinterest Grid</h1>
 
-| Project | Repo Card |
-|--------|-----------|
-| **Nutrition Paradox — Global Obesity & Malnutrition** | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=-Nutrition-Paradox-A-Global-View-on-Obesity-and-Malnutrition)](https://github.com/MounicaSrinivasan163/-Nutrition-Paradox-A-Global-View-on-Obesity-and-Malnutrition) |
-| **NASA GUVI — Asteroid Tracker** | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=NASA-GUVI-Project)](https://github.com/MounicaSrinivasan163/NASA-GUVI-Project) |
-| **Brain Tumor MRI Classification (TensorFlow)** | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=Brain-Tumour-MRI_Image_Classification-Using_Tensorflow)](https://github.com/MounicaSrinivasan163/Brain-Tumour-MRI_Image_Classification-Using_Tensorflow) |
-| **Shopper Spectrum — Customer Segmentation + Recommender** | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=Shopper-Spectrum-Customer-Segmentation-and-Product-Recommendations-in-E-Commerce)](https://github.com/MounicaSrinivasan163/Shopper-Spectrum-Customer-Segmentation-and-Product-Recommendations-in-E-Commerce) |
-| **LLM Fine-Tuning: OpenAI vs Azure vs HuggingFace (LoRA)** | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=Fine-Tuning-LLMs-OpenAI-SDK-vs-Azure-AI-Foundry-vs-Hugging-Face-LoRA---Streamlit-ChatApp)](https://github.com/MounicaSrinivasan163/Fine-Tuning-LLMs-OpenAI-SDK-vs-Azure-AI-Foundry-vs-Hugging-Face-LoRA---Streamlit-ChatApp) |
-| **Agentic RAG with Pinecone + CrewAI** | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=Agentic-RAG-with-Pinecone-CrewAI)](https://github.com/MounicaSrinivasan163/Agentic-RAG-with-Pinecone-CrewAI) |
-| **Naive & Advanced RAG Implementation** | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=RAG-implementation---Naive-RAG-Advanced-RAG)](https://github.com/MounicaSrinivasan163/RAG-implementation---Naive-RAG-Advanced-RAG) |
-| **Fake News Classifier — NLP (Word2Vec, TF-IDF, BERT)** | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=NLP-Fake-News-Classifier---A-comparative-study-between-different-embedding-techniques-and-models)](https://github.com/MounicaSrinivasan163/NLP-Fake-News-Classifier---A-comparative-study-between-different-embedding-techniques-and-models) |
-| **BERT Multi-label Travel City Classifier** | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=NLP-BERT-Multilabel_Classifier-Worldwide-travel-cities-dataset)](https://github.com/MounicaSrinivasan163/NLP-BERT-Multilabel_Classifier-Worldwide-travel-cities-dataset) |
-| **Trip Fare Prediction — ML Regression** | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=Trip_Fare_Prediction_Project)](https://github.com/MounicaSrinivasan163/Trip_Fare_Prediction_Project) |
-| **Healthcare MLflow MLOps Pipeline** | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=MLops_MLflow_implementation-Healthcare_dataset)](https://github.com/MounicaSrinivasan163/MLops_MLflow_implementation-Healthcare_dataset) |
+<div style="column-count: 3; column-gap: 1.5rem;">
+
+<div style="break-inside: avoid; margin-bottom: 1.5rem;">
+<b>Nutrition Paradox — Global Obesity & Malnutrition</b><br>
+<a href="https://github.com/MounicaSrinivasan163/-Nutrition-Paradox-A-Global-View-on-Obesity-and-Malnutrition">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=-Nutrition-Paradox-A-Global-View-on-Obesity-and-Malnutrition" />
+</a>
+</div>
+
+<div style="break-inside: avoid; margin-bottom: 1.5rem;">
+<b>NASA GUVI — Asteroid Tracker</b><br>
+<a href="https://github.com/MounicaSrinivasan163/NASA-GUVI-Project">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=NASA-GUVI-Project" />
+</a>
+</div>
+
+<div style="break-inside: avoid; margin-bottom: 1.5rem;">
+<b>Brain Tumor MRI Classification (TensorFlow)</b><br>
+<a href="https://github.com/MounicaSrinivasan163/Brain-Tumour-MRI_Image_Classification-Using_Tensorflow">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=Brain-Tumour-MRI_Image_Classification-Using_Tensorflow" />
+</a>
+</div>
+
+<div style="break-inside: avoid; margin-bottom: 1.5rem;">
+<b>Shopper Spectrum — Customer Segmentation + Recommender</b><br>
+<a href="https://github.com/MounicaSrinivasan163/Shopper-Spectrum-Customer-Segmentation-and-Product-Recommendations-in-E-Commerce">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=Shopper-Spectrum-Customer-Segmentation-and-Product-Recommendations-in-E-Commerce" />
+</a>
+</div>
+
+<div style="break-inside: avoid; margin-bottom: 1.5rem;">
+<b>LLM Fine-Tuning (OpenAI vs Azure vs HuggingFace — LoRA)</b><br>
+<a href="https://github.com/MounicaSrinivasan163/Fine-Tuning-LLMs-OpenAI-SDK-vs-Azure-AI-Foundry-vs-Hugging-Face-LoRA---Streamlit-ChatApp">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=Fine-Tuning-LLMs-OpenAI-SDK-vs-Azure-AI-Foundry-vs-Hugging-Face-LoRA---Streamlit-ChatApp" />
+</a>
+</div>
+
+<div style="break-inside: avoid; margin-bottom: 1.5rem;">
+<b>Agentic RAG with Pinecone + CrewAI</b><br>
+<a href="https://github.com/MounicaSrinivasan163/Agentic-RAG-with-Pinecone-CrewAI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=Agentic-RAG-with-Pinecone-CrewAI" />
+</a>
+</div>
+
+<div style="break-inside: avoid; margin-bottom: 1.5rem;">
+<b>Naive & Advanced RAG Implementations</b><br>
+<a href="https://github.com/MounicaSrinivasan163/RAG-implementation---Naive-RAG-Advanced-RAG">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=RAG-implementation---Naive-RAG-Advanced-RAG" />
+</a>
+</div>
+
+<div style="break-inside: avoid; margin-bottom: 1.5rem;">
+<b>Fake News Classifier — Word2Vec / TF-IDF / BERT</b><br>
+<a href="https://github.com/MounicaSrinivasan163/NLP-Fake-News-Classifier---A-comparative-study-between-different-embedding-techniques-and-models">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=NLP-Fake-News-Classifier---A-comparative-study-between-different-embedding-techniques-and-models" />
+</a>
+</div>
+
+<div style="break-inside: avoid; margin-bottom: 1.5rem;">
+<b>BERT Multi-label Travel City Classifier</b><br>
+<a href="https://github.com/MounicaSrinivasan163/NLP-BERT-Multilabel_Classifier-Worldwide-travel-cities-dataset">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=NLP-BERT-Multilabel_Classifier-Worldwide-travel-cities-dataset" />
+</a>
+</div>
+
+<div style="break-inside: avoid; margin-bottom: 1.5rem;">
+<b>Trip Fare Prediction — Regression</b><br>
+<a href="https://github.com/MounicaSrinivasan163/Trip_Fare_Prediction_Project">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=Trip_Fare_Prediction_Project" />
+</a>
+</div>
+
+<div style="break-inside: avoid; margin-bottom: 1.5rem;">
+<b>MLOps MLflow — Healthcare Dataset</b><br>
+<a href="https://github.com/MounicaSrinivasan163/MLops_MLflow_implementation-Healthcare_dataset">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=MLops_MLflow_implementation-Healthcare_dataset" />
+</a>
+</div>
+
+</div>
 
 ---
 
@@ -65,45 +132,53 @@ A curated set of Machine Learning, NLP, Computer Vision, LLM, RAG, and MLOps pro
 
 A curated collection of Azure-powered AI, ML, RAG, Computer Vision, NLP, and analytics projects.
 
----
+<h1 align="center">🌐 Azure AI Projects — Pinterest Grid</h1>
 
-## 🔹 RAG & Document Intelligence
+<div style="column-count: 3; column-gap: 1.5rem;">
 
-### 🟦 Azure AI Powered FAQ Chatbot (Simple RAG Solution)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Microsoft-Azure-Projects&repo=Azure-AI-Powered-FAQ-Chatbot-simple-RAG-solution)](https://github.com/Microsoft-Azure-Projects/Azure-AI-Powered-FAQ-Chatbot-simple-RAG-solution)
+<div style="break-inside: avoid; margin-bottom: 1.5rem;">
+<b>Azure AI Powered FAQ Chatbot (Simple RAG)</b><br>
+<a href="https://github.com/Microsoft-Azure-Projects/Azure-AI-Powered-FAQ-Chatbot-simple-RAG-solution">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Microsoft-Azure-Projects&repo=Azure-AI-Powered-FAQ-Chatbot-simple-RAG-solution" />
+</a>
+</div>
 
-### 📄 Smart Document Analyzer — Azure AI Services
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Microsoft-Azure-Projects&repo=Smart-Document-Analyzer-Azure-Services)](https://github.com/Microsoft-Azure-Projects/Smart-Document-Analyzer-Azure-Services)
+<div style="break-inside: avoid; margin-bottom: 1.5rem;">
+<b>Crowd Detection & Stampede Prevention</b><br>
+<a href="https://github.com/Microsoft-Azure-Projects/Crowd-Detection-Analytics-Stampede-Prevention">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Microsoft-Azure-Projects&repo=Crowd-Detection-Analytics-Stampede-Prevention" />
+</a>
+</div>
 
----
+<div style="break-inside: avoid; margin-bottom: 1.5rem;">
+<b>AzureAI Speech Translator App</b><br>
+<a href="https://github.com/Microsoft-Azure-Projects/AzureAI--Speech-translator-App">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Microsoft-Azure-Projects&repo=AzureAI--Speech-translator-App" />
+</a>
+</div>
 
-## 🔹 Speech & Translation
+<div style="break-inside: avoid; margin-bottom: 1.5rem;">
+<b>E-commerce Product Recommender — Smart Shopping Assistant</b><br>
+<a href="https://github.com/Microsoft-Azure-Projects/E-commerce-Product-Recommender-Smart-Shopping-Assistant-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Microsoft-Azure-Projects&repo=E-commerce-Product-Recommender-Smart-Shopping-Assistant-" />
+</a>
+</div>
 
-### 🎙️ AzureAI Speech Translator App
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Microsoft-Azure-Projects&repo=AzureAI--Speech-translator-App)](https://github.com/Microsoft-Azure-Projects/AzureAI--Speech-translator-App)
+<div style="break-inside: avoid; margin-bottom: 1.5rem;">
+<b>Emotion & Sentiment Insights Using Azure AI</b><br>
+<a href="https://github.com/Microsoft-Azure-Projects/Emotion-Sentiment-Insights-Using-Azure-AI-Services">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Microsoft-Azure-Projects&repo=Emotion-Sentiment-Insights-Using-Azure-AI-Services" />
+</a>
+</div>
 
----
+<div style="break-inside: avoid; margin-bottom: 1.5rem;">
+<b>Smart Document Analyzer — Azure Document Intelligence</b><br>
+<a href="https://github.com/Microsoft-Azure-Projects/Smart-Document-Analyzer-Azure-Services">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Microsoft-Azure-Projects&repo=Smart-Document-Analyzer-Azure-Services" />
+</a>
+</div>
 
-## 🔹 Computer Vision & Crowd Analytics
-
-### 👁️ Crowd Detection Analytics – Stampede Prevention
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Microsoft-Azure-Projects&repo=Crowd-Detection-Analytics-Stampede-Prevention)](https://github.com/Microsoft-Azure-Projects/Crowd-Detection-Analytics-Stampede-Prevention)
-
----
-
-## 🔹 Recommendation Systems
-
-### 🛍️ E-commerce Product Recommender — Smart Shopping Assistant
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Microsoft-Azure-Projects&repo=E-commerce-Product-Recommender-Smart-Shopping-Assistant-)](https://github.com/Microsoft-Azure-Projects/E-commerce-Product-Recommender-Smart-Shopping-Assistant-)
-
----
-
-## 🔹 NLP & Sentiment Analysis
-
-### 😀 Emotion & Sentiment Insights Using Azure AI Services
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Microsoft-Azure-Projects&repo=Emotion-Sentiment-Insights-Using-Azure-AI-Services)](https://github.com/Microsoft-Azure-Projects/Emotion-Sentiment-Insights-Using-Azure-AI-Services)
-
-
+</div>
 
 ---
 
