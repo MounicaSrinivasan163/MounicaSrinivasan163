@@ -35,76 +35,29 @@ ML Algorithms · Deep Learning Models · Neural Networks
 EDA · Data Visualization · Business Intelligence Dashboards  
 
 ---
-# 🚀 Data Science & AI Portfolio — Mounica Srinivasan
+# 🚀 Data Science, ML, NLP & LLM Projects — Grid View
 
-A structured list of Machine Learning, Deep Learning, NLP, RAG, MLOps, and analytics projects.
-
----
-
-## 🧠 Deep Learning & Computer Vision
-
-### 🧬 Brain Tumour MRI Classification (TensorFlow)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=Brain-Tumour-MRI_Image_Classification-Using_Tensorflow)](https://github.com/MounicaSrinivasan163/Brain-Tumour-MRI_Image_Classification-Using_Tensorflow)
+A curated set of Machine Learning, NLP, Computer Vision, LLM, RAG, and MLOps projects.
 
 ---
 
-## 🤖 LLMs, RAG & Agentic AI
+## 📁 Project Grid
 
-### 📚 RAG — Naive & Advanced Implementations
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=RAG-implementation---Naive-RAG-Advanced-RAG)](https://github.com/MounicaSrinivasan163/RAG-implementation---Naive-RAG-Advanced-RAG)
-
-### 🤖 LLM Fine-Tuning (OpenAI vs Azure vs HuggingFace — LoRA)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=Fine-Tuning-LLMs-OpenAI-SDK-vs-Azure-AI-Foundry-vs-Hugging-Face-LoRA---Streamlit-ChatApp)](https://github.com/MounicaSrinivasan163/Fine-Tuning-LLMs-OpenAI-SDK-vs-Azure-AI-Foundry-vs-Hugging-Face-LoRA---Streamlit-ChatApp)
-
-### 🧩 Agentic RAG with Pinecone + CrewAI
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=Agentic-RAG-with-Pinecone-CrewAI)](https://github.com/MounicaSrinivasan163/Agentic-RAG-with-Pinecone-CrewAI)
-
----
-
-## 🛰️ Space & Scientific Analytics
-
-### 🚀 NASA GUVI Project
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=NASA-GUVI-Project)](https://github.com/MounicaSrinivasan163/NASA-GUVI-Project)
+| Project | Repo Card |
+|--------|-----------|
+| **Nutrition Paradox — Global Obesity & Malnutrition** | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=-Nutrition-Paradox-A-Global-View-on-Obesity-and-Malnutrition)](https://github.com/MounicaSrinivasan163/-Nutrition-Paradox-A-Global-View-on-Obesity-and-Malnutrition) |
+| **NASA GUVI — Asteroid Tracker** | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=NASA-GUVI-Project)](https://github.com/MounicaSrinivasan163/NASA-GUVI-Project) |
+| **Brain Tumor MRI Classification (TensorFlow)** | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=Brain-Tumour-MRI_Image_Classification-Using_Tensorflow)](https://github.com/MounicaSrinivasan163/Brain-Tumour-MRI_Image_Classification-Using_Tensorflow) |
+| **Shopper Spectrum — Customer Segmentation + Recommender** | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=Shopper-Spectrum-Customer-Segmentation-and-Product-Recommendations-in-E-Commerce)](https://github.com/MounicaSrinivasan163/Shopper-Spectrum-Customer-Segmentation-and-Product-Recommendations-in-E-Commerce) |
+| **LLM Fine-Tuning: OpenAI vs Azure vs HuggingFace (LoRA)** | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=Fine-Tuning-LLMs-OpenAI-SDK-vs-Azure-AI-Foundry-vs-Hugging-Face-LoRA---Streamlit-ChatApp)](https://github.com/MounicaSrinivasan163/Fine-Tuning-LLMs-OpenAI-SDK-vs-Azure-AI-Foundry-vs-Hugging-Face-LoRA---Streamlit-ChatApp) |
+| **Agentic RAG with Pinecone + CrewAI** | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=Agentic-RAG-with-Pinecone-CrewAI)](https://github.com/MounicaSrinivasan163/Agentic-RAG-with-Pinecone-CrewAI) |
+| **Naive & Advanced RAG Implementation** | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=RAG-implementation---Naive-RAG-Advanced-RAG)](https://github.com/MounicaSrinivasan163/RAG-implementation---Naive-RAG-Advanced-RAG) |
+| **Fake News Classifier — NLP (Word2Vec, TF-IDF, BERT)** | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=NLP-Fake-News-Classifier---A-comparative-study-between-different-embedding-techniques-and-models)](https://github.com/MounicaSrinivasan163/NLP-Fake-News-Classifier---A-comparative-study-between-different-embedding-techniques-and-models) |
+| **BERT Multi-label Travel City Classifier** | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=NLP-BERT-Multilabel_Classifier-Worldwide-travel-cities-dataset)](https://github.com/MounicaSrinivasan163/NLP-BERT-Multilabel_Classifier-Worldwide-travel-cities-dataset) |
+| **Trip Fare Prediction — ML Regression** | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=Trip_Fare_Prediction_Project)](https://github.com/MounicaSrinivasan163/Trip_Fare_Prediction_Project) |
+| **Healthcare MLflow MLOps Pipeline** | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=MLops_MLflow_implementation-Healthcare_dataset)](https://github.com/MounicaSrinivasan163/MLops_MLflow_implementation-Healthcare_dataset) |
 
 ---
-
-## 🍽️ Global Health Analytics
-
-### 🌍 Nutrition Paradox — Obesity & Malnutrition
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=-Nutrition-Paradox-A-Global-View-on-Obesity-and-Malnutrition)](https://github.com/MounicaSrinivasan163/-Nutrition-Paradox-A-Global-View-on-Obesity-and-Malnutrition)
-
----
-
-## 🛒 Customer Analytics & Recommendations
-
-### 🛍️ Shopper Spectrum — Customer Segmentation & Product Recommendations
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=Shopper-Spectrum-Customer-Segmentation-and-Product-Recommendations-in-E-Commerce)](https://github.com/MounicaSrinivasan163/Shopper-Spectrum-Customer-Segmentation-and-Product-Recommendations-in-E-Commerce)
-
----
-
-## 📰 NLP Projects
-
-### 📰 Fake News Classifier — Embedding Techniques Comparison
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=NLP-Fake-News-Classifier---A-comparative-study-between-different-embedding-techniques-and-models)](https://github.com/MounicaSrinivasan163/NLP-Fake-News-Classifier---A-comparative-study-between-different-embedding-techniques-and-models)
-
-### 🌍 BERT Multilabel City Classification
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=NLP-BERT-Multilabel_Classifier-Worldwide-travel-cities-dataset)](https://github.com/MounicaSrinivasan163/NLP-BERT-Multilabel_Classifier-Worldwide-travel-cities-dataset)
-
----
-
-## 🚕 Predictive Analytics
-
-### 🚖 Trip Fare Prediction Project
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=Trip_Fare_Prediction_Project)](https://github.com/MounicaSrinivasan163/Trip_Fare_Prediction_Project)
-
----
-
-## ⚙️ MLOps
-
-### 🏥 MLflow — Healthcare Dataset
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=MLops_MLflow_implementation-Healthcare_dataset)](https://github.com/MounicaSrinivasan163/MLops_MLflow_implementation-Healthcare_dataset)
-
-
 
 ---
 
