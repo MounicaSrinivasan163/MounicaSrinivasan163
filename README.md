@@ -147,71 +147,78 @@ EDA · Data Visualization · Business Intelligence Dashboards
 ---
 
 # 🌐 Microsoft Azure AI & Cloud Projects Portfolio
+## 🌩️ Microsoft Azure AI & Cloud Projects Portfolio
 
 <table>
 <tr>
 
+<!-- 1 -->
 <td width="25%">
-<b>🚀 Azure AI Powered FAQ Chatbot</b><br>
 <a href="https://github.com/Microsoft-Azure-Projects/Azure-AI-Powered-FAQ-Chatbot-simple-RAG-solution">
-<img src="https://raw.githubusercontent.com/Microsoft-Azure-Projects/Azure-AI-Powered-FAQ-Chatbot-simple-RAG-solution/main/preview.png" width="100%">
+<b>🤖 Azure AI Powered FAQ Chatbot</b>
+<br>
+<img src="https://opengraph.githubassets.com/1/Microsoft-Azure-Projects/Azure-AI-Powered-FAQ-Chatbot-simple-RAG-solution" width="100%">
 </a>
-<p>RAG • FAQ Bot • Azure OpenAI</p>
 </td>
 
+<!-- 2 -->
 <td width="25%">
-<b>👁️ Crowd Detection Analytics – Stampede Prevention</b><br>
 <a href="https://github.com/Microsoft-Azure-Projects/Crowd-Detection-Analytics-Stampede-Prevention">
-<img src="https://raw.githubusercontent.com/Microsoft-Azure-Projects/Crowd-Detection-Analytics-Stampede-Prevention/main/preview.png" width="100%">
+<b>🛡 Crowd Detection Analytics – Stampede Prevention</b>
+<br>
+<img src="https://opengraph.githubassets.com/1/Microsoft-Azure-Projects/Crowd-Detection-Analytics-Stampede-Prevention" width="100%">
 </a>
-<p>Computer Vision • Crowd Analytics</p>
 </td>
 
+<!-- 3 -->
 <td width="25%">
-<b>🎙️ AzureAI Speech Translator App</b><br>
 <a href="https://github.com/Microsoft-Azure-Projects/AzureAI--Speech-translator-App">
-<img src="https://raw.githubusercontent.com/Microsoft-Azure-Projects/AzureAI--Speech-translator-App/main/preview.png" width="100%">
+<b>🎤 AzureAI Speech Translator App</b>
+<br>
+<img src="https://opengraph.githubassets.com/1/Microsoft-Azure-Projects/AzureAI--Speech-translator-App" width="100%">
 </a>
-<p>Speech • Translation • Real-time</p>
 </td>
 
+<!-- 4 -->
 <td width="25%">
-<b>🛒 E-commerce Product Recommender • Smart Shopping Assistant</b><br>
 <a href="https://github.com/Microsoft-Azure-Projects/E-commerce-Product-Recommender-Smart-Shopping-Assistant-">
-<img src="https://raw.githubusercontent.com/Microsoft-Azure-Projects/E-commerce-Product-Recommender-Smart-Shopping-Assistant-/main/preview.png" width="100%">
+<b>🛒 E-commerce Smart Recommender</b>
+<br>
+<img src="https://opengraph.githubassets.com/1/Microsoft-Azure-Projects/E-commerce-Product-Recommender-Smart-Shopping-Assistant-" width="100%">
 </a>
-<p>Recommender • Azure ML • E-commerce</p>
 </td>
 
 </tr>
 <tr>
 
+<!-- 5 -->
 <td width="25%">
-<b>📊 Emotion & Sentiment Insights Using Azure AI</b><br>
 <a href="https://github.com/Microsoft-Azure-Projects/Emotion-Sentiment-Insights-Using-Azure-AI-Services">
-<img src="https://raw.githubusercontent.com/Microsoft-Azure-Projects/Emotion-Sentiment-Insights-Using-Azure-AI-Services/main/preview.png" width="100%">
+<b>💬 Emotion & Sentiment Insights</b>
+<br>
+<img src="https://opengraph.githubassets.com/1/Microsoft-Azure-Projects/Emotion-Sentiment-Insights-Using-Azure-AI-Services" width="100%">
 </a>
-<p>Text Analytics • Emotion • AI Services</p>
 </td>
 
+<!-- 6 -->
 <td width="25%">
-<b>📄 Smart Document Analyzer — Azure AI Services</b><br>
 <a href="https://github.com/Microsoft-Azure-Projects/Smart-Document-Analyzer-Azure-Services">
-<img src="https://raw.githubusercontent.com/Microsoft-Azure-Projects/Smart-Document-Analyzer-Azure-Services/main/preview.png" width="100%">
+<b>📄 Smart Document Analyzer</b>
+<br>
+<img src="https://opengraph.githubassets.com/1/Microsoft-Azure-Projects/Smart-Document-Analyzer-Azure-Services" width="100%">
 </a>
-<p>Document Intelligence • Cognitive Search</p>
 </td>
 
-<td width="25%">
-<b>🔍 Coming Soon</b><br>
-<img src="https://dummyimage.com/600x400/cccccc/000000&text=New+Project+Coming+Soon" width="100%">
-<p>New Azure projects in progress</p>
+<!-- 7 -->
+<td width="25%" align="center">
+<b>⏳ Coming Soon</b><br>
+<img src="https://via.placeholder.com/600x300?text=Coming+Soon" width="100%">
 </td>
 
-<td width="25%">
-<b>📦 More Projects Loading</b><br>
-<img src="https://dummyimage.com/600x400/cccccc/000000&text=Stay+Tuned" width="100%">
-<p>Stay tuned for upcoming work</p>
+<!-- 8 -->
+<td width="25%" align="center">
+<b>📦 More Azure Projects</b><br>
+<img src="https://via.placeholder.com/600x300?text=Stay+Tuned" width="100%">
 </td>
 
 </tr>
