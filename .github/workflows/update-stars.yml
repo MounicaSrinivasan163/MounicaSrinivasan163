@@ -1,0 +1,27 @@
+name: Update Starred Repos
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # runs every day at midnight
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Update starred repos in README
+        uses: varunsridharan/action-github-stats@v2.1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          include: stars
+          sections: repository
+          stars_limit: 50
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "🔄 Auto-update starred repos"
