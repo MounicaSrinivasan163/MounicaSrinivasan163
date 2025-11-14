@@ -2,23 +2,24 @@ name: Update Starred Repos
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs every day at midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
-  build:
+  update_stars:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Update starred repos
-        uses: matchai/awesome-stars@main
+      - name: Generate starred repo list
+        uses: gittly/update-stars@v1
         with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          readme_path: README.md
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "⭐ Auto-update starred repositories"
+          commit_message: "⭐ Auto-update starred repos"
