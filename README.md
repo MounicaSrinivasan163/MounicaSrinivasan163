@@ -37,148 +37,186 @@ EDA · Data Visualization · Business Intelligence Dashboards
 ---
 # 🚀 Data Science, ML, NLP & LLM Projects — Grid View
 
-A curated set of Machine Learning, NLP, Computer Vision, LLM, RAG, and MLOps projects.
+<table>
+<tr>
 
----
-
-<h1 align="center">🚀 Data Science, ML, NLP & LLM Projects — Pinterest Grid</h1>
-
-<div style="column-count: 3; column-gap: 1.5rem;">
-
-<div style="break-inside: avoid; margin-bottom: 1.5rem;">
-<b>Nutrition Paradox — Global Obesity & Malnutrition</b><br>
+<td width="25%">
+<b>🥗 Nutrition Paradox</b><br>
 <a href="https://github.com/MounicaSrinivasan163/-Nutrition-Paradox-A-Global-View-on-Obesity-and-Malnutrition">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=-Nutrition-Paradox-A-Global-View-on-Obesity-and-Malnutrition" />
+<img src="https://raw.githubusercontent.com/MounicaSrinivasan163/-Nutrition-Paradox-A-Global-View-on-Obesity-and-Malnutrition/main/preview.png" width="100%">
 </a>
-</div>
+<p>Global EDA • Health Analytics</p>
+</td>
 
-<div style="break-inside: avoid; margin-bottom: 1.5rem;">
-<b>NASA GUVI — Asteroid Tracker</b><br>
+<td width="25%">
+<b>🌌 NASA NEO Dashboard</b><br>
 <a href="https://github.com/MounicaSrinivasan163/NASA-GUVI-Project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=NASA-GUVI-Project" />
+<img src="https://raw.githubusercontent.com/MounicaSrinivasan163/NASA-GUVI-Project/main/preview.png" width="100%">
 </a>
-</div>
+<p>NASA API • Streamlit • Space Analytics</p>
+</td>
 
-<div style="break-inside: avoid; margin-bottom: 1.5rem;">
-<b>Brain Tumor MRI Classification (TensorFlow)</b><br>
+<td width="25%">
+<b>🧠 Brain Tumor MRI Classification</b><br>
 <a href="https://github.com/MounicaSrinivasan163/Brain-Tumour-MRI_Image_Classification-Using_Tensorflow">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=Brain-Tumour-MRI_Image_Classification-Using_Tensorflow" />
+<img src="https://raw.githubusercontent.com/MounicaSrinivasan163/Brain-Tumour-MRI_Image_Classification-Using_Tensorflow/main/preview.png" width="100%">
 </a>
-</div>
+<p>CNN • Medical Imaging</p>
+</td>
 
-<div style="break-inside: avoid; margin-bottom: 1.5rem;">
-<b>Shopper Spectrum — Customer Segmentation + Recommender</b><br>
+<td width="25%">
+<b>🛍️ Shopper Spectrum Analysis</b><br>
 <a href="https://github.com/MounicaSrinivasan163/Shopper-Spectrum-Customer-Segmentation-and-Product-Recommendations-in-E-Commerce">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=Shopper-Spectrum-Customer-Segmentation-and-Product-Recommendations-in-E-Commerce" />
+<img src="https://raw.githubusercontent.com/MounicaSrinivasan163/Shopper-Spectrum-Customer-Segmentation-and-Product-Recommendations-in-E-Commerce/main/preview.png" width="100%">
 </a>
-</div>
+<p>Customer Segmentation • Recommender</p>
+</td>
 
-<div style="break-inside: avoid; margin-bottom: 1.5rem;">
-<b>LLM Fine-Tuning (OpenAI vs Azure vs HuggingFace — LoRA)</b><br>
+</tr>
+<tr>
+
+<td width="25%">
+<b>🤖 Fine-Tuning LLMs</b><br>
 <a href="https://github.com/MounicaSrinivasan163/Fine-Tuning-LLMs-OpenAI-SDK-vs-Azure-AI-Foundry-vs-Hugging-Face-LoRA---Streamlit-ChatApp">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=Fine-Tuning-LLMs-OpenAI-SDK-vs-Azure-AI-Foundry-vs-Hugging-Face-LoRA---Streamlit-ChatApp" />
+<img src="https://raw.githubusercontent.com/MounicaSrinivasan163/Fine-Tuning-LLMs-OpenAI-SDK-vs-Azure-AI-Foundry-vs-Hugging-Face-LoRA---Streamlit-ChatApp/main/preview.png" width="100%">
 </a>
-</div>
+<p>OpenAI • Azure • HF LoRA</p>
+</td>
 
-<div style="break-inside: avoid; margin-bottom: 1.5rem;">
-<b>Agentic RAG with Pinecone + CrewAI</b><br>
-<a href="https://github.com/MounicaSrinivasan163/Agentic-RAG-with-Pinecone-CrewAI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=Agentic-RAG-with-Pinecone-CrewAI" />
-</a>
-</div>
-
-<div style="break-inside: avoid; margin-bottom: 1.5rem;">
-<b>Naive & Advanced RAG Implementations</b><br>
+<td width="25%">
+<b>📚 RAG — Naive to Advanced</b><br>
 <a href="https://github.com/MounicaSrinivasan163/RAG-implementation---Naive-RAG-Advanced-RAG">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=RAG-implementation---Naive-RAG-Advanced-RAG" />
+<img src="https://raw.githubusercontent.com/MounicaSrinivasan163/RAG-implementation---Naive-RAG-Advanced-RAG/main/preview.png" width="100%">
 </a>
-</div>
+<p>RAG • LangChain • Vector DB</p>
+</td>
 
-<div style="break-inside: avoid; margin-bottom: 1.5rem;">
-<b>Fake News Classifier — Word2Vec / TF-IDF / BERT</b><br>
+<td width="25%">
+<b>🚀 Agentic RAG + CrewAI</b><br>
+<a href="https://github.com/MounicaSrinivasan163/Agentic-RAG-with-Pinecone-CrewAI">
+<img src="https://raw.githubusercontent.com/MounicaSrinivasan163/Agentic-RAG-with-Pinecone-CrewAI/main/preview.png" width="100%">
+</a>
+<p>Agents • Pinecone • CrewAI</p>
+</td>
+
+<td width="25%">
+<b>🕵️ Fake News Classifier</b><br>
 <a href="https://github.com/MounicaSrinivasan163/NLP-Fake-News-Classifier---A-comparative-study-between-different-embedding-techniques-and-models">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=NLP-Fake-News-Classifier---A-comparative-study-between-different-embedding-techniques-and-models" />
+<img src="https://raw.githubusercontent.com/MounicaSrinivasan163/NLP-Fake-News-Classifier---A-comparative-study-between-different-embedding-techniques-and-models/main/preview.png" width="100%">
 </a>
-</div>
+<p>NLP • Embeddings • ML Models</p>
+</td>
 
-<div style="break-inside: avoid; margin-bottom: 1.5rem;">
-<b>BERT Multi-label Travel City Classifier</b><br>
+</tr>
+<tr>
+
+<td width="25%">
+<b>🌍 BERT Multi-Label Classifier</b><br>
 <a href="https://github.com/MounicaSrinivasan163/NLP-BERT-Multilabel_Classifier-Worldwide-travel-cities-dataset">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=NLP-BERT-Multilabel_Classifier-Worldwide-travel-cities-dataset" />
+<img src="https://raw.githubusercontent.com/MounicaSrinivasan163/NLP-BERT-Multilabel_Classifier-Worldwide-travel-cities-dataset/main/preview.png" width="100%">
 </a>
-</div>
+<p>BERT • Multi-label NLP</p>
+</td>
 
-<div style="break-inside: avoid; margin-bottom: 1.5rem;">
-<b>Trip Fare Prediction — Regression</b><br>
+<td width="25%">
+<b>🚖 Trip Fare Prediction</b><br>
 <a href="https://github.com/MounicaSrinivasan163/Trip_Fare_Prediction_Project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=Trip_Fare_Prediction_Project" />
+<img src="https://raw.githubusercontent.com/MounicaSrinivasan163/Trip_Fare_Prediction_Project/main/preview.png" width="100%">
 </a>
-</div>
+<p>Regression • Feature Engineering</p>
+</td>
 
-<div style="break-inside: avoid; margin-bottom: 1.5rem;">
-<b>MLOps MLflow — Healthcare Dataset</b><br>
+<td width="25%">
+<b>⚕️ MLflow Healthcare MLOps</b><br>
 <a href="https://github.com/MounicaSrinivasan163/MLops_MLflow_implementation-Healthcare_dataset">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MounicaSrinivasan163&repo=MLops_MLflow_implementation-Healthcare_dataset" />
+<img src="https://raw.githubusercontent.com/MounicaSrinivasan163/MLops_MLflow_implementation-Healthcare_dataset/main/preview.png" width="100%">
 </a>
-</div>
+<p>MLOps • MLflow • Tracking</p>
+</td>
 
-</div>
+<td width="25%">
+<b>📦 Coming Soon</b><br>
+<img src="https://dummyimage.com/600x400/cccccc/000000&text=More+Projects+Soon" width="100%">
+<p>New projects under development</p>
+</td>
 
----
+</tr>
+</table>
+
 
 ---
 
 # 🌐 Microsoft Azure AI & Cloud Projects Portfolio
 
-A curated collection of Azure-powered AI, ML, RAG, Computer Vision, NLP, and analytics projects.
+<table>
+<tr>
 
-<h1 align="center">🌐 Azure AI Projects — Pinterest Grid</h1>
-
-<div style="column-count: 3; column-gap: 1.5rem;">
-
-<div style="break-inside: avoid; margin-bottom: 1.5rem;">
-<b>Azure AI Powered FAQ Chatbot (Simple RAG)</b><br>
+<td width="25%">
+<b>🚀 Azure AI Powered FAQ Chatbot</b><br>
 <a href="https://github.com/Microsoft-Azure-Projects/Azure-AI-Powered-FAQ-Chatbot-simple-RAG-solution">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Microsoft-Azure-Projects&repo=Azure-AI-Powered-FAQ-Chatbot-simple-RAG-solution" />
+<img src="https://raw.githubusercontent.com/Microsoft-Azure-Projects/Azure-AI-Powered-FAQ-Chatbot-simple-RAG-solution/main/preview.png" width="100%">
 </a>
-</div>
+<p>RAG • FAQ Bot • Azure OpenAI</p>
+</td>
 
-<div style="break-inside: avoid; margin-bottom: 1.5rem;">
-<b>Crowd Detection & Stampede Prevention</b><br>
+<td width="25%">
+<b>👁️ Crowd Detection Analytics – Stampede Prevention</b><br>
 <a href="https://github.com/Microsoft-Azure-Projects/Crowd-Detection-Analytics-Stampede-Prevention">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Microsoft-Azure-Projects&repo=Crowd-Detection-Analytics-Stampede-Prevention" />
+<img src="https://raw.githubusercontent.com/Microsoft-Azure-Projects/Crowd-Detection-Analytics-Stampede-Prevention/main/preview.png" width="100%">
 </a>
-</div>
+<p>Computer Vision • Crowd Analytics</p>
+</td>
 
-<div style="break-inside: avoid; margin-bottom: 1.5rem;">
-<b>AzureAI Speech Translator App</b><br>
+<td width="25%">
+<b>🎙️ AzureAI Speech Translator App</b><br>
 <a href="https://github.com/Microsoft-Azure-Projects/AzureAI--Speech-translator-App">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Microsoft-Azure-Projects&repo=AzureAI--Speech-translator-App" />
+<img src="https://raw.githubusercontent.com/Microsoft-Azure-Projects/AzureAI--Speech-translator-App/main/preview.png" width="100%">
 </a>
-</div>
+<p>Speech • Translation • Real-time</p>
+</td>
 
-<div style="break-inside: avoid; margin-bottom: 1.5rem;">
-<b>E-commerce Product Recommender — Smart Shopping Assistant</b><br>
+<td width="25%">
+<b>🛒 E-commerce Product Recommender • Smart Shopping Assistant</b><br>
 <a href="https://github.com/Microsoft-Azure-Projects/E-commerce-Product-Recommender-Smart-Shopping-Assistant-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Microsoft-Azure-Projects&repo=E-commerce-Product-Recommender-Smart-Shopping-Assistant-" />
+<img src="https://raw.githubusercontent.com/Microsoft-Azure-Projects/E-commerce-Product-Recommender-Smart-Shopping-Assistant-/main/preview.png" width="100%">
 </a>
-</div>
+<p>Recommender • Azure ML • E-commerce</p>
+</td>
 
-<div style="break-inside: avoid; margin-bottom: 1.5rem;">
-<b>Emotion & Sentiment Insights Using Azure AI</b><br>
+</tr>
+<tr>
+
+<td width="25%">
+<b>📊 Emotion & Sentiment Insights Using Azure AI</b><br>
 <a href="https://github.com/Microsoft-Azure-Projects/Emotion-Sentiment-Insights-Using-Azure-AI-Services">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Microsoft-Azure-Projects&repo=Emotion-Sentiment-Insights-Using-Azure-AI-Services" />
+<img src="https://raw.githubusercontent.com/Microsoft-Azure-Projects/Emotion-Sentiment-Insights-Using-Azure-AI-Services/main/preview.png" width="100%">
 </a>
-</div>
+<p>Text Analytics • Emotion • AI Services</p>
+</td>
 
-<div style="break-inside: avoid; margin-bottom: 1.5rem;">
-<b>Smart Document Analyzer — Azure Document Intelligence</b><br>
+<td width="25%">
+<b>📄 Smart Document Analyzer — Azure AI Services</b><br>
 <a href="https://github.com/Microsoft-Azure-Projects/Smart-Document-Analyzer-Azure-Services">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Microsoft-Azure-Projects&repo=Smart-Document-Analyzer-Azure-Services" />
+<img src="https://raw.githubusercontent.com/Microsoft-Azure-Projects/Smart-Document-Analyzer-Azure-Services/main/preview.png" width="100%">
 </a>
-</div>
+<p>Document Intelligence • Cognitive Search</p>
+</td>
 
-</div>
+<td width="25%">
+<b>🔍 Coming Soon</b><br>
+<img src="https://dummyimage.com/600x400/cccccc/000000&text=New+Project+Coming+Soon" width="100%">
+<p>New Azure projects in progress</p>
+</td>
+
+<td width="25%">
+<b>📦 More Projects Loading</b><br>
+<img src="https://dummyimage.com/600x400/cccccc/000000&text=Stay+Tuned" width="100%">
+<p>Stay tuned for upcoming work</p>
+</td>
+
+</tr>
+</table>
+
 
 ---
 
