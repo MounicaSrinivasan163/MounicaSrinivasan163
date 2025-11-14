@@ -37,9 +37,8 @@ EDA · Data Visualization · Business Intelligence Dashboards
 ---
 
 ## ⭐ My Starred Projects (Auto-Updated)
-<!--START_SECTION:stars-->
-<!--END_SECTION:stars-->
-
+<!-- auto-update-stars:START -->
+<!-- auto-update-stars:END -->
 
 ---
 
