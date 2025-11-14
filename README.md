@@ -36,9 +36,10 @@ EDA · Data Visualization · Business Intelligence Dashboards
 
 ---
 
-## ⭐ My Starred Projects 
+## ⭐ My Starred Projects (Auto-Updated)
 <!-- STARRED_REPOS_LIST -->
 <!-- STARRED_REPOS_LIST_END -->
+
 
 ---
 
