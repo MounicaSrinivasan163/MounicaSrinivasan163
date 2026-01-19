@@ -11,7 +11,7 @@ Data Storyteller. Creative Geek. Intuitive Analyst. Algorithm Alchemist 🧪📊
 - M.B.A – University of Madras  
 
 📊 **Work Experience**
-- 2.5yrs as BI Analyst at Hexaware Technologies
+- 2.5yrs as  Senior Functional Analyst at Hexaware Technologies
 
 📚 **Currently Learning**  
 - IITM Pravartak Certified **Master Data Science** Program @ Guvi-HCL  
@@ -19,7 +19,7 @@ Data Storyteller. Creative Geek. Intuitive Analyst. Algorithm Alchemist 🧪📊
 📍 **Location:** Chennai, India  
 
 🧠 **Ikigai:**  
-Aspiring **Data Scientist** | **Business Intelligence Analyst**
+Aspiring **Data Scientist** | **Business Intelligence Analyst** | **AI/ML Engineer**
 
 ---
 
